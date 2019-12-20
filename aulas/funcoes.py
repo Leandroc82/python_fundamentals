@@ -40,9 +40,9 @@
 # def subtrair(x, y)
 #     return x - y
 
-servidor = '192.168.0.2'
+# servidor = '192.168.0.2'
 
-def class_a():
-    servidor = '192.168.0.1'
-def classe_b():
-    print
+# def class_a():
+#     servidor = '192.168.0.1'
+# def classe_b():
+#     print
